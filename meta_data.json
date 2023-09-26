@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "productivity",
+        "2": "technical"
+    },
+    "description": "Frictionless Bubble plugin development. Auto-sync local code changes with Bubble. ",
+    "image": "//meta-l.cdn.bubble.io/f1694722378214x102928343176644800/Bask%20logo.png",
+    "license": "open_source",
+    "link": "https://docs.scious.io/bask/latest",
+    "name": "Bask    "
+}
